@@ -3,7 +3,7 @@
     --primary: #945d25;
     --secondary: #34AD54;
     --light: #EEF9FF;
-    --dark: #091E3E;
+    --dark: #945d25;
 }
 
 
@@ -388,7 +388,7 @@ h6,
 }
 
 .testimonial-carousel .owl-item.center .testimonial-item {
-    background: #945d25 !important;
+    background: #f5f4f3 !important;
     box-shadow: 0 0 30px #945d25;
 }
 
